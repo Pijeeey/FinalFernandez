@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <!-- for navigation sa baba   -->
+
+    <!-- para sa headlines   -->
+    <item android:id="@+id/headlinesFragment"
+        android:title="Headlines"
+        android:icon="@drawable/baseline_headlines_24" />
+
+    <!-- para sa favorites  -->
+    <item android:id="@+id/favouritesFragment"
+        android:title="Favourites"
+        android:icon="@drawable/baseline_favorite_24" />
+
+    <!-- para sa search   -->
+    <item android:id="@+id/searchFragment"
+        android:title="Search"
+        android:icon="@drawable/baseline_search_24" />
+
+</menu>
